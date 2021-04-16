@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the necessary skills required 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything, i am open to talk 
 - ⚡ Fun fact: I listen to music, draw and write
 -->
+
 
 ### Spotify Playing 🎧
 
