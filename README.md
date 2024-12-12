@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rocker-bell)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
