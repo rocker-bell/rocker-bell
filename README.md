@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://vite.dev/logo.svg" />]()
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />]()
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescrypt,Sass,wasm,git,github,js,react,vite,visualcode,python)](https://skillicons.dev)
 
 
 
