@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,Sass,wasm,git,github,js,react,vite,nodejs,yarn,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,bootstrap,wasm,git,github,githubactions,js,react,electron,vite,vscode,nodejs,yarn,python,php)](https://skillicons.dev)
 
 
 
