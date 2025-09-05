@@ -2,27 +2,23 @@ name: Generate Breakout SVG
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
-  workflow_dispatch:      # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-svg:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate Breakout SVG
         uses: cyprieng/github-breakout@v1
         with:
           github_username: rocker-bell
-          paddle_color: "#ff7043"       # warm orange
-          ball_color: "#ffab91"         # peach
-          bricks_colors: "#ffe0b2,#ffcc80,#ffb74d,#ffa726,#fb8c00"
-          enable_ghost_bricks: true
 
       - name: Move SVGs to images folder
         run: |
@@ -35,5 +31,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/
-          git commit -m "update breakout SVGs with custom colors" || echo "No changes to commit"
+          git commit -m "update breakout SVGs" || echo "No changes to commit"
           git push
