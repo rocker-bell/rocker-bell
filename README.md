@@ -1,10 +1,10 @@
-### Hi there, I am Anass Aka - *rocker*bell👋
+### Hi there, I am Anass Aka - *rocker*bell
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything, i am open to talk 
+-  I’m currently learning everything
+-  I’m looking to collaborate on open source projects
+-  Ask me about anything, i am open to talk 
 
 ### Languages and Tools:
 
