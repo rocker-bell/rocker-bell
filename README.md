@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,ts,bootstrap,wasm,git,github,githubactions,js,react,electron,vite,vscode,nodejs,yarn,python,php,mongodb,flask)](https://skillicons.dev)
 
-![image](https://github.com/user-attachments/assets/a3f2a332-454f-4b23-88d4-5f9cbcfb2d44)
+
 
 
 
